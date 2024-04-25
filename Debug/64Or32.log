@@ -1,0 +1,6 @@
+﻿  main.c
+D:\Project\Project2\64Or32\main.c(21,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Project\Project2\64Or32\main.c(65,50): warning C4047: “=”:“LPVOID”与“WORD”的间接级别不同
+D:\Project\Project2\64Or32\main.c(66,34): warning C4047: “!=”:“LPVOID”与“int”的间接级别不同
+D:\Project\Project2\64Or32\main.c(69,88): warning C4047: “=”:“DWORD”与“char *”的间接级别不同
+  64Or32.vcxproj -> D:\Project\Project2\Debug\64Or32.exe
